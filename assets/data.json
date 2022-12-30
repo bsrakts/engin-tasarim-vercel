@@ -1,0 +1,42 @@
+[
+  {
+    "image": "gold_black.jpeg",
+    "name": "Neptune",
+    "price": "$16.00"
+  },
+  {
+    "image": "gold_blue.jpeg",
+    "name": "Shooting Stars",
+    "price": "$21.15"
+  },
+  {
+    "image": "gold_gray.jpeg",
+    "name": "Neptune",
+    "price": "$12.00"
+  },
+  {
+    "image": "gold_pink.jpeg",
+    "name": "The 400 Blows",
+    "price": "$18.40"
+  },
+  {
+    "image": "gray_blue.jpeg",
+    "name": "The 400 Blows",
+    "price": "$18.40"
+  },
+  {
+    "image": "gold_black.jpeg",
+    "name": "Neptune",
+    "price": "$16.00"
+  },
+  {
+    "image": "gold_blue.jpeg",
+    "name": "Shooting Stars",
+    "price": "$21.15"
+  },
+  {
+    "image": "gold_gray.jpeg",
+    "name": "Neptune",
+    "price": "$12.00"
+  }
+]
